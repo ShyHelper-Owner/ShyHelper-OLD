@@ -1,0 +1,29 @@
+{
+  "name": "shyhelper",
+  "version": "1.0.0",
+  "description": "mah bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shyboi",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "canvas": "^2.6.1",
+    "db": "^3.3.0",
+    "discord.js": "^12.4.1",
+    "ffmpeg-static": "^4.2.3",
+    "fs": "0.0.1-security",
+    "lyrics-finder": "^21.4.0",
+    "mongoose": "^5.10.11",
+    "node-fetch": "^2.6.1",
+    "quick-db": "^1.0.5",
+    "simple-youtube-api": "^5.2.1",
+    "slappey": "^2.0.0",
+    "soundcloud-downloader": "^0.1.8",
+    "string-progressbar": "^1.0.1",
+    "ytdl-core": "^4.0.3",
+    "ytdl-core-discord": "^1.2.4"
+  }
+}
