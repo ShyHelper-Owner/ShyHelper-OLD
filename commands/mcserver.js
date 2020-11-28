@@ -15,7 +15,7 @@ module.exports = {
               .setColor(0xff0000)
               .setFooter('📌 Minecraft Discord Server: https://discord.gg/mqADsJN')
               // Set the main content of the embed
-              .setDescription('My Minecraft server is hosted by another bot which ill give a oauth2 ( NzU5ODgzMjgyMTQ5NDA4ODA5.X3D-dA.4rr8YgEpustu4QJVaTFfZ95xpwQ ) and ill be in it when its on (bc i use a free minecraft server thing and im poor) and if you want it on tell me');
+              .setDescription('My Minecraft server is hosted by another bot which ill give a oauth2 ( https://discord.com/oauth2/authorize?client_id=759883282149408809&permissions=8&scope=bot ) and ill be in it when its on (bc i use a free minecraft server thing and im poor) and if you want it on tell me');
             // Send the embed to the same channel as the message
             message.channel.send(embed);
     }
